@@ -1,0 +1,75 @@
+# Directories
+.vscode/
+.obsidian/
+
+# Course materials
+courses/
+
+# VPN configuration files
+*.ovpn
+
+# VM files
+*.mf
+*.nvram
+*.ovf
+*.vmx*
+*.vmdk
+*.vmsd
+
+# Archives
+*.7z
+*.rar
+*.zip
+*.gz
+*.tar
+*.bz2
+*.xz
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# JetBrains IDEs
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Backup files
+*.bak
+*.bak2
+*.bkp
+*.bck
+
+# Compiled files
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Miscellaneous
+*.~*

@@ -7,6 +7,9 @@ tags:
   - memory
   - dll
 ---
+
+# Windows Internals
+
 ```bash
 ip a s tun0
 
@@ -61,7 +64,8 @@ Answer 3:
 Answer 4:
 >51
 
-Hint: `CTRL` + `L` 
+Hint: `CTRL` + `L`
+
 - `Path` contains `.dll` then `include`
 - `Operation` is `Load Image` then `include`
 

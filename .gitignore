@@ -1,3 +1,11 @@
+####################################################
+
+gpwn/   # not sure about the publication of content
+htb/    # prevent pusing  non-retired machines
+
+!htb/academy
+
+####################################################
 # Directories
 .vscode/
 .obsidian/

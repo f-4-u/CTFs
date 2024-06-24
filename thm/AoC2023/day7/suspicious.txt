@@ -1,0 +1,5 @@
+[2023/10/25:15:56:29] 10.10.185.225 frostlings.bigbadstash.thm:80 GET /storage.php?goodies=aWQscmVjaXBpZW50LGdp 200 362 "Go-http-client/1.1"
+[2023/10/25:15:56:29] 10.10.185.225 frostlings.bigbadstash.thm:80 GET /storage.php?goodies=ZnQKZGRiZTlmMDI1OGE4 200 362 "Go-http-client/1.1"
+[2023/10/25:15:56:29] 10.10.185.225 frostlings.bigbadstash.thm:80 GET /storage.php?goodies=MDRjOGExNWNmNTI0ZTMy 200 362 "Go-http-client/1.1"
+[2023/10/25:15:56:30] 10.10.185.225 frostlings.bigbadstash.thm:80 GET /storage.php?goodies=ZTE3ODUsTm9haCxQbGF5 200 362 "Go-http-client/1.1"
+[2023/10/25:15:56:30] 10.10.185.225 frostlings.bigbadstash.thm:80 GET /storage.php?goodies=IENhc2ggUmVnaXN0ZXIK 200 362 "Go-http-client/1.1"

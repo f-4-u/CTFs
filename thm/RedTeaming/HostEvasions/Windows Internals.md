@@ -69,7 +69,7 @@ Hint: `CTRL` + `L`
 - `Path` contains `.dll` then `include`
 - `Operation` is `Load Image` then `include`
 
-![[./images/Pasted image 20240619111547.png]]
+![[Pasted image 20240619111547.png]]
 
 ## Task 6
 
